@@ -3,7 +3,7 @@
 
 - 📊 I am a final year Software Engineering student and aspiring full-stack developer.
 
-- 👨‍💻 All of my projects are available at [https://rachels-archive.github.io/portfolio/](https://rachels-archive.github.io/portfolio/)
+- 👩‍💻 View my protfolio & projects at [https://rachels-archive.github.io/portfolio/](https://rachels-archive.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://dev.to/rachelsarchive](https://dev.to/rachelsarchive)
 
