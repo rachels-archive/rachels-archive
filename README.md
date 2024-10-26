@@ -7,7 +7,13 @@
 
 - 📝 I regularly write articles on [https://dev.to/rachelsarchive](https://dev.to/rachelsarchive)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachels-archive&" alt="rachels-archive" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachels-archive&show_icons=true&locale=en&layout=compact" alt="rachels-archive" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachels-archive&show_icons=true&locale=en" alt="rachels-archive" /></p>
+
+
 
 <h3 align="left">Languages:</h3>
 
