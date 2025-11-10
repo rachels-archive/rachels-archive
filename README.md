@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rachel</h1>
 <h3 align="center">I'm passionate about software development and learning about anything tech-related!</h3>
 
-- 📊 I am a final year Software Engineering student and aspiring full-stack developer.
+- 📊 I am a Software Engineering fresh graduate and a junior full-stack developer.
 
 - 👩‍💻 View my protfolio & projects at [https://rachels-archive.github.io/portfolio/](https://rachels-archive.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://dev.to/rachelsarchive](https://dev.to/rachelsarchive)
+- 📝 I write articles on [https://dev.to/rachelsarchive](https://dev.to/rachelsarchive)
 
 
 
